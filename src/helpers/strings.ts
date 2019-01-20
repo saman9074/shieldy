@@ -92,6 +92,7 @@ Ainda tem perguntas? De uma olhada no canal de suporte — @borodutch\\_support.
     et: 'Palun valige keel.',
     uk: 'Будь ласка, виберіть мову.',
     br: 'Por favor, selecione uma língua.',
+    fa: 'لطفا یک زبان را انتخاب کنید.',
   },
   language_selected: {
     en: 'Great, I speak English now.',
@@ -100,6 +101,7 @@ Ainda tem perguntas? De uma olhada no canal de suporte — @borodutch\\_support.
     et: 'Väga hea, nüüd ma räägin eesti keeles.',
     uk: 'Чудово, тепер я розмовляю українською.',
     br: 'Boa, Agora eu falo português.',
+    fa: 'بسیار عالی! من از الان فارسی حرف میزنم.',
   },
   only_author_can_reply: {
     en: 'Only the person who initiated the menu can select the choices.',
@@ -108,6 +110,7 @@ Ainda tem perguntas? De uma olhada no canal de suporte — @borodutch\\_support.
     et: 'Ainult see, kes avas menüüd, saab valida valikud.',
     uk: 'Тільки людина, яка викликала меню, може вибирати опції.',
     br: 'Apenas a pessoa que iniciou o menu pode selecionar as opções.',
+    fa: 'تنها فردی که این منو را راه اندازی کرد میتواند گزینه ها را انتخاب کند.',
   },
   captcha: {
     en: `Please, select the test type for the newcomers:
@@ -134,6 +137,12 @@ Ainda tem perguntas? De uma olhada no canal de suporte — @borodutch\\_support.
     
 • Simples - o bot vai pedir para mandar alguma coisa no chat
 • Botão - o bot vai pedir para apertar um botão`,
+    
+    fa: `لطفا نوع آزمون برای تازه واردین را انتخاب کنید:
+
+• ساده - ربات درخواست میکند که کاربرهر چیزی را به چت ارسال کند
+• دکمه - ربات درخواست میکند تا کاربر یک دکمه را فشار دهد`,
+    
   },
   simple: {
     en: 'Simple',
@@ -142,6 +151,7 @@ Ainda tem perguntas? De uma olhada no canal de suporte — @borodutch\\_support.
     et: 'Lihtne',
     uk: 'Проста',
     br: 'Simples',
+    fa: 'ساده',
   },
   digits: {
     en: 'Digits',
@@ -150,6 +160,7 @@ Ainda tem perguntas? De uma olhada no canal de suporte — @borodutch\\_support.
     et: 'Digitaalne',
     uk: 'Цифрова',
     br: 'Digitos',
+    fa: 'عدد',
   },
   button: {
     en: 'Button',
@@ -158,6 +169,7 @@ Ainda tem perguntas? De uma olhada no canal de suporte — @borodutch\\_support.
     et: 'Nuppuga',
     uk: 'Кнопкою',
     br: 'Botão',
+    fa: 'دکمه',
   },
   captcha_selected: {
     en: 'Great, I will use this type of test then.',
@@ -166,6 +178,7 @@ Ainda tem perguntas? De uma olhada no canal de suporte — @borodutch\\_support.
     et: 'Väga hea, nüüd ma kasutan seda testi tüüpi.',
     uk: 'Чудово, тепер я буду використовувати цей тип тесту.',
     br: 'Boa, Eu irei usar esse tipo de teste agora.',
+    fa: 'خوب، من از این نوع آزمون استفاده خواهم کرد.',
   },
   time_limit: {
     en:
@@ -180,6 +193,8 @@ Ainda tem perguntas? De uma olhada no canal de suporte — @borodutch\\_support.
       'Будь ласка, виберіть, скільки секунд буде у новачків, щоб завершити тест перед кіком.',
     br:
       'Por favor, selecione quantos segundos o novato tem para completar o teste.',
+    fa:
+      'لطفا مقدار زمانی که میخواهید ربات قبل از اینکه کاربر را اخراج کنم منتظر انجام آزمون باشد را وارد کنید.',
   },
   time_limit_selected: {
     en: 'Great, I will use this time limit then.',
@@ -188,6 +203,7 @@ Ainda tem perguntas? De uma olhada no canal de suporte — @borodutch\\_support.
     et: 'Väga hea, nüüd ma kasutan seda aja limiiti.',
     uk: 'Чудово, тепер я буду використовувати це обмеження часу.',
     br: 'Boa, Eu irei usar esse tempo limite agora.',
+    fa: 'بسیار عالی! من مقداری که وارد کردید منتظر انجام آزمون میمانم',
   },
   seconds: {
     en: 'sec',
@@ -196,6 +212,7 @@ Ainda tem perguntas? De uma olhada no canal de suporte — @borodutch\\_support.
     et: 'sek',
     uk: 'сек',
     br: 'sec',
+    fa: 'sec',
   },
   lock_true: {
     en: 'Great! Now I will only react to commands sent by admins.',
@@ -204,6 +221,7 @@ Ainda tem perguntas? De uma olhada no canal de suporte — @borodutch\\_support.
     et: 'Väga hea, nüüd ma aktsepteerin ainult administraatorite käske.',
     uk: 'Чудово! Тепер я буду приймати команди тільки від адміністраторів.',
     br: 'Boa! Agora só obedecerei os ADMs.',
+    fa: 'عالی! حالا من فقط به دستورات فرستاده شده توسط مدیر ها واکنش نشان می دهم.',
   },
   lock_false: {
     en: 'Great! Now I will react to commands sent by anybody.',
@@ -212,6 +230,7 @@ Ainda tem perguntas? De uma olhada no canal de suporte — @borodutch\\_support.
     et: 'Väga hea, nüüd ma aktsepteerin kõik käsud.',
     uk: 'Чудово! Тепер я буду приймати команди від усіх.',
     br: 'Boa! Agora obedecerei a qualquer pessoa.',
+    fa: 'عالی! حالا من به دستورات فرستاده شده توسط هر کسی واکنش نشان می دهم.',
   },
   simple_warning: {
     en:
