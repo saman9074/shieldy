@@ -258,6 +258,8 @@ Ainda tem perguntas? De uma olhada no canal de suporte — @borodutch\\_support.
       ', будь ласка, надішліть будь-яке повідомлення в цей чат протягом зазначеного часу, інакше Ви будете кікнуті. Дякуємо!',
     br:
       ', Por favor, mande qualquer mensagem para esse grupo com o tempo limite especificado, caso contrário irei kicka-lo. Obrigado!',
+    fa:
+      ', لطفا هر پیامی را به این گروه در زمان تعیین شده ارسال کنید، در غیر این صورت شما اخراج خواهید شد. متشکرم!',
   },
   digits_warning: {
     en:
@@ -272,6 +274,8 @@ Ainda tem perguntas? De uma olhada no canal de suporte — @borodutch\\_support.
       ', будь ласка, надішліть рішення зазначеного математичного рівняння в цей чат протягом зазначеного часу, інакше Ви будете кікнуті. Дякуємо!',
     br:
       ', Por favor, mande a solução da equação matemática para esse grupo no tempo limite especificado, caso contrário irei kicka-lo. Obrigado!',
+    fa:
+      ', لطفا، راه حل را به معادله ریاضی ارائه شده در زمان مقدار مشخص شده به این گروه ارسال کنید، در غیر این صورت شما اخراج خواهید شد. متشکرم!',
   },
   button_warning: {
     en:
@@ -286,6 +290,8 @@ Ainda tem perguntas? De uma olhada no canal de suporte — @borodutch\\_support.
       ', будь ласка, натисніть на кнопку нижче протягом зазначеного часу, інакше Ви будете кікнуті. Дякуємо!',
     br:
       ', Por favor, aperte o botão abaixo no tempo limite especificado, caso contrário irei kicka-lo, Obrigado!',
+    fa:
+      ', لطفا، دکمه زیر را در مدت زمان تعیین شده فشار دهید، در غیر این صورت شما اخراج خواهید شد. متشکرم!',
   },
   captcha_button: {
     en: 'I am not a bot',
@@ -294,6 +300,7 @@ Ainda tem perguntas? De uma olhada no canal de suporte — @borodutch\\_support.
     et: 'Ma ei ole bot',
     uk: 'Я не бот',
     br: 'Não sou um robô',
+    fa: 'من یک ربات نیستم!',
   },
   only_candidate_can_reply: {
     en: 'Only the candidate for not being a bot can press this button.',
@@ -303,6 +310,7 @@ Ainda tem perguntas? De uma olhada no canal de suporte — @borodutch\\_support.
     et: 'Selle nuppu saab klõpsata ainult kandidaat, kes soovib olla inimene.',
     uk: 'Тільки кандидат на те, щоб бути людиною, може натискати на цю кнопку.',
     br: 'Apenas o usuário citado pode apertar esse botão.',
+    fa: 'فقط ربات نمی تواند این دکمه را فشار دهد.',
   },
   restrict_true: {
     en:
@@ -317,6 +325,8 @@ Ainda tem perguntas? De uma olhada no canal de suporte — @borodutch\\_support.
       'Чудово! Тепер усі новачки протягом першої доби зможуть надсилати в чат тільки текстові повідомлення.',
     br:
       'Boa, Agora todos os novatos só poderam mandar mensagens de texto para esse chat.',
+    fa:
+      'عالی! اکنون همه تازه واردین تنها قادر به ارسال پیام های متنی معمولی به این چت هستند.',
   },
   restrict_false: {
     en:
@@ -331,6 +341,8 @@ Ainda tem perguntas? De uma olhada no canal de suporte — @borodutch\\_support.
       'Чудово! Тепер усі новачки зможуть надсилати будь-які повідомлення в чат.',
     br:
       'Boa, Agora todos os novatos poderam mandar qualquer tipo de conteúdo para esse chat.',
+    fa:
+      'عالی! اکنون همه تازه واردان قادر خواهند بود هر نوع محتوایی را به این چت ارسال کنند.',
   },
   deleteEntryMessages_true: {
     en: 'Great! Now entry messages will be deleted.',
@@ -340,6 +352,7 @@ Ainda tem perguntas? De uma olhada no canal de suporte — @borodutch\\_support.
     uk:
       'Чудово! Тепер повідомлення про вхід користувачів в чат будуть видалятися.',
     br: 'Boa, Agora a mensagem de entrada será apagada.',
+    fa: 'عالی! پیام های ورودی حذف خواهند شد.',
   },
   deleteEntryMessages_false: {
     en: 'Great! Now entry messages will not be deleted.',
@@ -349,6 +362,7 @@ Ainda tem perguntas? De uma olhada no canal de suporte — @borodutch\\_support.
     uk:
       'Чудово! Тепер повідомлення про вхід користувачів в чат не будуть видалятися.',
     br: 'Boa, Agora a mensagem de entrada não será apagada.',
+    fa: 'عالی! در حال حاضر پیام های ورود حذف نخواهند شد.',
   },
   greetsUsers_true: {
     en:
@@ -363,6 +377,8 @@ Ainda tem perguntas? De uma olhada no canal de suporte — @borodutch\\_support.
       'Great! Now newcomers who passed the test will not be greeted. Please, reply to this message with the greeting text you would like to use.',
     br:
       'Boa! Agora os novatos que passarem no teste não serão congratulados. Por favor, responda essa mensagem com a o texto de congratulações que você gostaria de usar.',
+    fa:
+      'Great! Now newcomers who passed the test will not be greeted. Please, reply to this message with the greeting text you would like to use (you can use $title and $username).',
   },
   greetsUsers_true_message: {
     en:
@@ -377,6 +393,8 @@ Ainda tem perguntas? De uma olhada no canal de suporte — @borodutch\\_support.
       'Great! Now newcomers who passed the test will be greeted. Please, reply to this message with the greeting text you would like to use. The current greeting message follows.',
     br:
       'Boa! Agora os novatos que passarem no teste serão congratulados. Por favor, responda essa mensagem com o texto de congratulações que você gostaria de usar. O texto atual é:',
+    fa:
+      'عالی! در حال حاضر تازه واردانی که امتحان را گذرانده اند خواهند پذیرفت. لطفا به این پیام با متن خوش آمدید که می خواهید استفاده کنید ریپلای کنید(شما می توانید از $title و$username  استفاده کنید). پیام تبریک فعلی به شرح زیر است.',  
   },
   greetsUsers_false: {
     en: 'Great! Now newcomers who passed the test will not be greeted.',
@@ -386,6 +404,7 @@ Ainda tem perguntas? De uma olhada no canal de suporte — @borodutch\\_support.
     et: 'Great! Now newcomers who passed the test will not be greeted',
     uk: 'Great! Now newcomers who passed the test will not be greeted',
     br: 'Boa! Agora os novatos que passarem no teste não serão congratulados',
+    en: 'عالی! در حال حاضر تازه واردانی که امتحان را گذرانده اند نخواهند پذیرفت.',
   },
   greetsUsers_message_accepted: {
     en: 'Accepted!',
@@ -394,5 +413,6 @@ Ainda tem perguntas? De uma olhada no canal de suporte — @borodutch\\_support.
     et: 'Accepted!',
     uk: 'Accepted!',
     br: 'Aceito!',
+    fa: 'پذیرفته شده!',
   },
 }
