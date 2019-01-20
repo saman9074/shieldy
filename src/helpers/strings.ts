@@ -404,7 +404,7 @@ Ainda tem perguntas? De uma olhada no canal de suporte — @borodutch\\_support.
     et: 'Great! Now newcomers who passed the test will not be greeted',
     uk: 'Great! Now newcomers who passed the test will not be greeted',
     br: 'Boa! Agora os novatos que passarem no teste não serão congratulados',
-    en: 'عالی! در حال حاضر تازه واردانی که امتحان را گذرانده اند نخواهند پذیرفت.',
+    fa: 'عالی! در حال حاضر تازه واردانی که امتحان را گذرانده اند نخواهند پذیرفت.',
   },
   greetsUsers_message_accepted: {
     en: 'Accepted!',
