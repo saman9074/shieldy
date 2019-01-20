@@ -84,6 +84,19 @@ Veel küsimusi? Kirjutage minu loojale — @borodutch\\_support. Shieldy lähtek
 /greeting — congratula o usuário que passou no teste
 
 Ainda tem perguntas? De uma olhada no canal de suporte — @borodutch\\_support. O codigo do Shieldy é OpenSource e pode ser encontrado [aqui](https://github.com/backmeupplz/shieldy). Obrigado.`,
+  
+    fa: `شیلدی - بهترین راه حل در تلگرام برای مبارزه با اسپم های مزاحم است. بعد از ورود تازه واردان یک عمل برای تشخیص ربات بودن کاربر انجام میدهد، در صورتی که ربات باشند آن ها را اخراج میکند.راه اندازی آن آسان است، کافیست ربات را مدیر گروه خود کنید و همه کارها انجام شده است! شما همچنین می توانید رفتار را با دستورات زیر تنظیم کنید:
+
+/help — نمایش راهنما
+/language — تغییر زبان
+/captcha — تغییر نوع کپچایی که استفاده می شود
+/timeLimit — تغییر مقدار زمان داده شده به تازه واردان
+/lock —دستورات را فقط توسط مدیران قابل دسترسی می کند
+/restrict — تازه واردان را محدود می کند تا فقط 24 ساعت اول پیام های متنی را ارسال کنند
+/deleteEntryMessages — پیام های مربوط به ورود کاربر را حذف کنید
+/greeting — به کاربرانی که آزمون را با موفقیت انجام میدهند خوش آمد می گوید
+
+در صورتی که مشکلی دارید با @golden3_ir_admin ارتباط بر قرار کنید`,
   },
   language: {
     en: 'Please, select the language.',
